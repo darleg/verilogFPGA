@@ -1,0 +1,20 @@
+
+#    LEDs
+set_io S[0] G14 
+set_io S[1] F14 
+set_io S[2] E12
+set_io S[3] E14
+set_io COUT D14
+
+# dip switches
+set_io B[0] G12 
+set_io B[1] F12
+set_io B[2] F11
+set_io B[3] E11
+
+set_io A[0] D10
+set_io A[1] D9
+set_io A[2] D7
+set_io A[3] D6
+
+set_io CIN D5
